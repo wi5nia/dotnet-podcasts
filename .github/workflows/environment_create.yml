@@ -25,7 +25,7 @@ jobs:
 
       - name: Setup Deployment Environment
         id: setup
-        uses: colbylwilliams/deployment-environments@v2-preview
+        uses: colbylwilliams/deployment-environments@v1.0.0
 
   create:
     if: github.event_name == 'pull_request' || github.event.ref_type == 'branch'
