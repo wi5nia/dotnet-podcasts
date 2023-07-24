@@ -1,6 +1,6 @@
 ---
 page_type: sample
-description: ".NET reference application shown at .NET Conf 2021 & 2022 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Power Apps, Playwright, Orleans, and more!"
+description: ".NET reference application shown at .NET Conf 2021 & 2022 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, Power Apps, Playwright, Orleans, and more"
 languages:
 - csharp
 products:
